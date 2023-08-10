@@ -1,5 +1,4 @@
 <h3 align="center">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 🌱📱</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumnaafsar&label=Profile%20views&color=0e75b6&style=flat" alt="yumnaafsar" /> </p>
 
 Hey, I'm Yumna, a young and curious explorer venturing into the realms of Flutter and UI design. My current mission? Learning, growing, and soaking in everything these creative avenues have to offer.
