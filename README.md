@@ -1,5 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><img src="https://giphy.com/embed/TxVVB6PfWMjE4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen
-<img src=" https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif" alt="Computer man" style="width:48px;height:48px;">
+
                                                                         
 
 <h3 align="center">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 🌱📱</h3>
@@ -24,7 +23,7 @@ Off the tech track, you'll find me engrossed in games and sports – a balance t
 <div>
 <a href="http://www.github.com/yumnaafsar"><img src="https://github-readme-stats.vercel.app/api?username=yumnaafsar&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yumnaafsar's GitHub stats" /></a>
 
-<a href="http://www.github.com/yumnaafsar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yumnaafsar&stroke=14b8a6&background=27272a&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/yumnaafsar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yumnaafsar&stroke=14b8a6&background=27272a&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" width="200" /></a>
 </div>
 
 
