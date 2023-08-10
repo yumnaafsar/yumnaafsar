@@ -1,4 +1,4 @@
-<img width="100%" src="./Yumna Afsar.png"/>                                           
+<img width="100%" src="./YumnaAfsar.png"/>                                           
 
 <h3 align="center">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 🌱📱</h3>
 
