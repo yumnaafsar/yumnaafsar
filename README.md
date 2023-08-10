@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><img src="https://giphy.com/embed/TxVVB6PfWMjE4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><img src="https://giphy.com/embed/TxVVB6PfWMjE4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen
+<img src=" https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif" alt="Computer man" style="width:48px;height:48px;">
+                                                                        
 
 <h3 align="center">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 🌱📱</h3>
 
