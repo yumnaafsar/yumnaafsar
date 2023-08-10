@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/lnfzT3k8g7wpG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-motion-graphics-purple-lnfzT3k8g7wpG">via GIPHY</a></p>
-![Header](./your-header-image-name.png)
+
 
 <h3 align="center">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 🌱📱</h3>
 
