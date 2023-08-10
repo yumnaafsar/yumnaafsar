@@ -31,3 +31,6 @@ Off the tech track, you'll find me engrossed in games and sports – a balance t
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yumnaafsar&show_icons=true&locale=en" alt="yumnaafsar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yumnaafsar&" alt="yumnaafsar" /></p>
+
+[![Yumna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yumnaafsar&&theme=xcode)](https://github.com/yumnaafsar)https://github.com/yumnaafsar)
+
