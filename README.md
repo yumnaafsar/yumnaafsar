@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱📱 Exploring Flutter & UI Design | Embracing Web Development 🌱📱
 
-Hey, I'm [Your Name], a young and curious explorer venturing into the realms of Flutter and UI design. My current mission? Learning, growing, and soaking in everything these creative avenues have to offer.
+Hey, I'm Yumna, a young and curious explorer venturing into the realms of Flutter and UI design. My current mission? Learning, growing, and soaking in everything these creative avenues have to offer.
 
 Web development also has my attention – I'm excited to unwrap its mysteries and expand my skill set. I'm not aiming for perfection; I'm here to absorb, adapt, and advance.
 
