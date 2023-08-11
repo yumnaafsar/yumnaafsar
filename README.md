@@ -15,7 +15,7 @@ you're up for a chat or sharing insights, let's connect and journey together! ðŸ
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumnaafsar&label=Profile%20views&color=0e75b6&style=flat"
         alt="yumnaafsar" /> </p>
 
-<h3 align="center" style="font-size: 30">Connect with me:</h3>
+<h3 align="center" style="font-size: 55">Connect with me:</h3>
 <p align="center"> <a href="https://www.github.com/yumnaafsar" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
