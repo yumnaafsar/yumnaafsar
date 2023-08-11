@@ -77,6 +77,6 @@ you're up for a chat or sharing insights, let's connect and journey together! ğŸ
   </a>
 
   <a href="http://www.github.com/yumnaafsar" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumnaafsar&stroke=14b8a6&background=27272a&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" width="440" height="450"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumnaafsar&stroke=14b8a6&background=27272a&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" width="440" height="460"/>
   </a>
 </div>
