@@ -73,7 +73,7 @@ you're up for a chat or sharing insights, let's connect and journey together! ğŸ
 
 <div align="center" style="display: flex;">
   <a href="http://www.github.com/yumnaafsar" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yumnaafsar&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yumnaafsar's GitHub stats" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yumnaafsar&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yumnaafsar's GitHub stats" width="440"  height="450"/>
   </a>
 
   <a href="http://www.github.com/yumnaafsar" style="flex: 1;">
