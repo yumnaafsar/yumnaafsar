@@ -51,7 +51,7 @@ you're up for a chat or sharing insights, let's connect and journey together! ðŸ
                 width="32" height="32" />
         </picture>
     </a>
-a href="https://yumnaafsar14@gmail.com">
+<a href="https://yumnaafsar14@gmail.com">
         <img width="32" height="32"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
             alt="">
