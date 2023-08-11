@@ -71,7 +71,7 @@ you're up for a chat or sharing insights, let's connect and journey together! ğŸ
 <a href="https://github.com/yumnaafsar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumnaafsar&langs_count=10&title_color=facc15&text_color=14b8a6&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex;">
   <a href="http://www.github.com/yumnaafsar" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=yumnaafsar&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yumnaafsar's GitHub stats" />
   </a>
@@ -80,4 +80,3 @@ you're up for a chat or sharing insights, let's connect and journey together! ğŸ
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumnaafsar&stroke=14b8a6&background=27272a&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true"/>
   </a>
 </div>
-
