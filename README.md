@@ -1,6 +1,6 @@
 <img width="100%" src="./YumnaAfsar.png" />
 
-<h3 align="center" style="font-size: 30">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 📱🌱</h3>
+<h3 align="center" style="font-size: 55">🌱📱 Exploring Flutter & UI Design | Embracing Web Development 📱🌱</h3>
 
 
 Hey, I'm Yumna, a young and curious explorer venturing into the realms of Flutter and UI design. My current mission?
